@@ -2,7 +2,7 @@
 
 This project is mainly recorded in the process of the Alibaba Tianchi competitions, it contain two competitons. This project is only for learn to study, without any commercial use. 
 
-At present, they both enter the second season, it is a pity that I did not get a good rank from the competitons and I did not it later. But I learned a a lot from them. Thanks to Alibaba for providing this platform.
+At present, they both enter the second season, it is a pity that I did not get a good rank from the competitons and I did not it later. But I learned a lot from them. Thanks to Alibaba for providing this platform.
 
 Of course, there are many mistakes and shortcomings, we can learn and progress together, thank you!
 
