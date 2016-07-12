@@ -10,7 +10,7 @@ Of course, there are many mistakes and shortcomings, we can learn and progress t
 
 This project was done by [@Aesthetic92](https://github.com/aesthetic92).
 
-I are graduate students in the mainland of China.
+I am graduate student in the mainland of China.
 
 Welcome to offer me. 
 
